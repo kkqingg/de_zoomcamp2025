@@ -1,6 +1,6 @@
-#-------------------------------------------------------------
+#----------------------------------
 This is the readme file for Week 2 Homework.
-#-------------------------------------------------------------
+#---------------------------------
 
 For checking the file size of Yellow Taxi data for the year 2020 and month 12, it was proceeded from the details section of the big query for yellow_tripdata_2020-12.csv file.
 In the GCP big query, yellow and green trip data for 2020 all months are extracted and merged, then the following checking 
