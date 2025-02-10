@@ -1,6 +1,7 @@
 1 #Count of records for the 2024 Yellow Taxi Data\
 -- SELECTING COUNTS FROM TOTAL RECORDS--\
-SELECT COUNT (*) AS total_records FROM `kestra-data-zc.2025_taxi_homework.2025_taxi_hw` LIMIT 1000\
+SELECT COUNT (*) AS total_records \
+FROM `kestra-data-zc.2025_taxi_homework.2025_taxi_hw` LIMIT 1000\
 \
 --2. Creating external table\
 CREATE EXTERNAL TABLE `kestra-data-zc.2025_taxi_homework.yellow_taxi_external`\
